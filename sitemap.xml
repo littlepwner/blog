@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://littlepwner.github.io/tags/cve-2023-32031/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/posts/cve-2023-32031-ms-exchange-powershell-backend-rce/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/tags/deserialization/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/tags/dotnet/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/tags/exchange/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/posts/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/tags/</loc>
+    <lastmod>2023-01-07T07:36:27+01:00</lastmod>
+  </url><url>
+    <loc>https://littlepwner.github.io/categories/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dotnet on Out Of Band Writes</title>
+    <link>https://littlepwner.github.io/tags/dotnet/</link>
+    <description>Recent content in dotnet on Out Of Band Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jan 2023 07:36:27 +0100</lastBuildDate><atom:link href="https://littlepwner.github.io/tags/dotnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2023-32031 MS Exchange PowerShell backend RCE</title>
+      <link>https://littlepwner.github.io/posts/cve-2023-32031-ms-exchange-powershell-backend-rce/</link>
+      <pubDate>Sat, 07 Jan 2023 07:36:27 +0100</pubDate>
+      
+      <guid>https://littlepwner.github.io/posts/cve-2023-32031-ms-exchange-powershell-backend-rce/</guid>
+      <description>After reading Starlabs’s blog about an interesting variant of CVE-2022-41082 and seeing a tweet by chudyPB about a new bypass that he found. I get carious to analyzing his bypasses (known as CVE-2023-32031 and CVE-2023-21529)
+To understand this very creative bypass please read ZDI’s blog about CVE-2022-41082 first.
+Patch diff The most important patch is on ChainedSerializationBinder class:
+The blacklist is improved with new types (Microsoft.Diagnostics.Runtime.Utilities.Command is the one which can be used for RCE, we will talk about it later) ValidateResultType is removed and IsTypeExplicitlyDenied method is changed.</description>
+    </item>
+    
+  </channel>
+</rss>
